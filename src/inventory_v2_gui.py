@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-from tkinter import *
+import tkinter as tk
 from tkinter import ttk
 
 from inventory_v2 import *
