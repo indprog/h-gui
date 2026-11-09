@@ -7,7 +7,7 @@ from rock_paper_scissors import (
     SCISSORS_ID,
     compare,
     computer_choice,
-    shape_id_to_str,
+    ## YOUR CODE HERE
 )
 
 ## YOUR CODE HERE
